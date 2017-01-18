@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Tank
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Tank\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Tank()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Tank\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ shootRocket()
+comment3.text=\r\n\ shootRocket\ -\ This\ method\ creates\ and\ adds\ an\ instance\ of\ Rocket\ to\ the\ world.\r\n
+numComments=4
