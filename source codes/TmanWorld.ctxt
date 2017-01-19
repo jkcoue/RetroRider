@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=TmanWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ TmanWorld\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=TmanWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TmanWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ setup()
+comment3.text=\r\n\ setup\ -\ This\ method\ adds\ the\ instances\ of\ objects\ that\ are\ needed\ when\ the\ world\ is\ initialized\r\n
+comment4.params=
+comment4.target=void\ updateScore()
+comment4.text=\r\n\ updateScore\ -\ Updates\ the\ player's\ current\ score\ and\ outputs\ it\ to\ the\ current\ world.\r\n
+numComments=5

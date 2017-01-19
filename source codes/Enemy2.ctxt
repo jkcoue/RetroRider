@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Enemy2
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Enemy2\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Enemy2()
+comment2.params=
+comment2.target=void\ enemy2Move()
+comment2.text=\r\n\ enemy2Move\ -\ This\ method\ moves\ enemies\ from\ GameWorld2\ from\ right\ to\ left\ at\ a\ random\ speed.\r\n
+comment3.params=
+comment3.target=void\ remove()
+comment3.text=\r\n\ Remove\ -\ Removes\ this\ object\ when\ it\ is\ at\ edge\ of\ the\ world.\r\n
+numComments=4
