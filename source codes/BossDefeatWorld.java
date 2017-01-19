@@ -40,7 +40,7 @@ public class BossDefeatWorld extends EndWorlds
      * updateScore - Updates the player's current score and outputs it to the current world.
      */
     public void updateScore(){
-        GreenfootImage image = new GreenfootImage(250, 120);
+        GreenfootImage image = new GreenfootImage(180, 120);
         image.setFont(new Font("8BIT WONDER Nominal", Font.PLAIN, 20));
         Color scoreColor = new Color(255, 255, 240);
         image.setColor(scoreColor);

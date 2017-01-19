@@ -51,7 +51,7 @@ public class AirmanWorld extends GameWorld
         super.act();
         airmanTheme2.setVolume(60);
         airmanTheme2.playLoop(); 
-        if(timer.millisElapsed() > 4000){
+        if(timer.millisElapsed() > 10000){
             removeObject(alert);
         }
         updateScore();
