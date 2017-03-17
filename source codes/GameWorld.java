@@ -1,11 +1,6 @@
 import greenfoot.*;
 import java.awt.Color;
-/**
- * Write a description of class GameWorld here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
+
 public class GameWorld extends World
 {
     private static String bgImageName = "bg1.png";
