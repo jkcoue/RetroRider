@@ -1,12 +1,7 @@
 import greenfoot.*;
 import java.awt.Font;
 import java.awt.Color;
-/**
- * Write a description of class BossDefeatWorld here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
+
 public class BossDefeatWorld extends EndWorlds
 {
     SimpleTimer timer = new SimpleTimer();
