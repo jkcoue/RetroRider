@@ -1,11 +1,5 @@
 import greenfoot.*;
 
-/**
- * Write a description of class Enemy2 here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
 public class Enemy2 extends Actor
 {
     private int speed;
