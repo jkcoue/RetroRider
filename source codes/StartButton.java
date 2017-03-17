@@ -1,11 +1,5 @@
 import greenfoot.*;
 
-/**
- * Write a description of class StartTitle here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
 public class StartButton extends Texts
 {
     int timer = 0;
