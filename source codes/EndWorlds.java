@@ -1,11 +1,5 @@
 import greenfoot.*;
 
-/**
- * Write a description of class EndWorld here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
 public class EndWorlds extends World
 {
     private static String bgImageName = "bg2.png";
