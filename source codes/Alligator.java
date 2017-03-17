@@ -1,11 +1,6 @@
 import greenfoot.*;
 import java.util.Random;
-/**
- * Write a description of class Dude1 here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
+
 public class Alligator extends Enemy
 {
     public Alligator(){
@@ -17,10 +12,7 @@ public class Alligator extends Enemy
         setImage(image);
     }
 
-    /**
-     * Act - do whatever the Dude1 wants to do. This method is called whenever
-     * the 'Act' or 'Run' button gets pressed in the environment.
-     */
+
     public void act() 
     {
         enemyMove();
