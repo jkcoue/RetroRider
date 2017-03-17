@@ -1,11 +1,5 @@
 import greenfoot.*;
 
-/**
- * Write a description of class cloud here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
 public class Cloud extends EnemyAttacks
 {
     SimpleTimer timer = new SimpleTimer();
@@ -18,10 +12,6 @@ public class Cloud extends EnemyAttacks
         setImage(image);
     }
 
-    /**
-     * Act - do whatever the cloud wants to do. This method is called whenever
-     * the 'Act' or 'Run' button gets pressed in the environment.
-     */
     public void act() 
     {
         move(-1);
