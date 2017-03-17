@@ -1,11 +1,5 @@
 import greenfoot.*;
 
-/**
- * Write a description of class Zaku here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
 public class Zaku extends Enemy2
 {
     public Zaku(){
@@ -19,10 +13,6 @@ public class Zaku extends Enemy2
         setImage(image);
     }
 
-    /**
-     * Act - do whatever the Zaku wants to do. This method is called whenever
-     * the 'Act' or 'Run' button gets pressed in the environment.
-     */
     public void act() 
     {
         GameWorld2 w2 = (GameWorld2) getWorld();
