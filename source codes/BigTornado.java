@@ -1,11 +1,6 @@
 import greenfoot.*;
 
-/**
- * Write a description of class BigTornado here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
+
 public class BigTornado extends EnemyAttacks
 {
     GreenfootSound hardExplosionSound = new GreenfootSound("hardExplosion.wav");
@@ -18,10 +13,7 @@ public class BigTornado extends EnemyAttacks
         setImage(image);
     }
 
-    /**
-     * Act - do whatever the BigTornado wants to do. This method is called whenever
-     * the 'Act' or 'Run' button gets pressed in the environment.
-     */
+
     public void act() 
     {
         move(-1);
