@@ -1,12 +1,7 @@
 import greenfoot.*;
 import java.awt.Color;
 import java.awt.Font;
-/**
- * Write a description of class GameWorld2 here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
+
 public class GameWorld2 extends GameWorld
 {
     Score score = new Score();
