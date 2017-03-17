@@ -1,11 +1,5 @@
 import greenfoot.*;
 
-/**
- * Credit World
- * 
- * Justin Oue 
- * @version (a version number or a date)
- */
 public class Credits extends EndWorlds
 {
     CreditTexts[] credits = new CreditTexts[11];
