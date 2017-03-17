@@ -1,12 +1,7 @@
 import greenfoot.*;
 import java.awt.Color;
 import java.awt.Font;
-/**
- * GameWorld Class for Game
- * 
- * @author Justin Oue
- * @version May 2015
- */
+
 public class GameWorld1 extends GameWorld
 {
     SimpleTimer timer = new SimpleTimer();
