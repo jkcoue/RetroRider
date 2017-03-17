@@ -1,11 +1,5 @@
 import greenfoot.*;
 
-/**
- * Write a description of class DomBullet here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
 public class DomBullet extends EnemyAttacks
 {
     private int dir;
@@ -20,10 +14,6 @@ public class DomBullet extends EnemyAttacks
         dir = (Greenfoot.getRandomNumber(200-130)+130);
     }
 
-    /**
-     * Act - do whatever the DomBullet wants to do. This method is called whenever
-     * the 'Act' or 'Run' button gets pressed in the environment.
-     */
     public void act() 
     {
         setRotation(dir);
