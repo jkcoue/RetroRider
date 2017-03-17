@@ -1,11 +1,5 @@
 import greenfoot.*;
 
-/**
- * Write a description of class airmanAtk2 here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
 public class AirmanAtk2 extends EnemyAttacks
 {
     int direction1 = 0;
@@ -21,10 +15,6 @@ public class AirmanAtk2 extends EnemyAttacks
         direction2 = (Greenfoot.getRandomNumber(360-270)+270);
     }
 
-    /**
-     * Act - do whatever the airmanAtk2 wants to do. This method is called whenever
-     * the 'Act' or 'Run' button gets pressed in the environment.
-     */
     public void act() 
     {
         if (Greenfoot.getRandomNumber(2) == 0){
