@@ -1,11 +1,5 @@
 import greenfoot.*;
 
-/**
- * Write a description of class TBeam2 here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
 public class TBeam2 extends EnemyAttacks
 {
     int direction;
@@ -19,10 +13,6 @@ public class TBeam2 extends EnemyAttacks
         setImage(image);
     }
         
-    /**
-     * Act - do whatever the TBeam2 wants to do. This method is called whenever
-     * the 'Act' or 'Run' button gets pressed in the environment.
-     */
     public void act() 
     {
         setRotation(direction);
