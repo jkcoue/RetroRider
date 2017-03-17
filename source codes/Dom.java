@@ -1,19 +1,10 @@
 import greenfoot.*;
 
-/**
- * Write a description of class Dom here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
 public class Dom extends Enemy2
 {
     SimpleTimer timer = new SimpleTimer(); //shooting
     SimpleTimer timer2 = new SimpleTimer(); //animation
-    /**
-     * Act - do whatever the Dom wants to do. This method is called whenever
-     * the 'Act' or 'Run' button gets pressed in the environment.
-     */
+
     public void act() 
     {
         enemy2Move();
