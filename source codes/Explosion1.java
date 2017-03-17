@@ -1,19 +1,9 @@
 import greenfoot.*;
 
-/**
- * Write a description of class Explosion1 here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
 public class Explosion1 extends Actor
 {
     SimpleTimer timer = new SimpleTimer();
 
-    /**
-     * Act - do whatever the Explosion1 wants to do. This method is called whenever
-     * the 'Act' or 'Run' button gets pressed in the environment.
-     */
     public void act() 
     {
         if(timer.millisElapsed() > 50){
