@@ -1,11 +1,5 @@
 import greenfoot.*;
 
-/**
- * Write a description of class Jet here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
 public class Jet extends Enemy
 {
     SimpleTimer timer = new SimpleTimer();
@@ -20,10 +14,6 @@ public class Jet extends Enemy
         setImage(image);
     }
 
-    /**
-     * Act - do whatever the Jet wants to do. This method is called whenever
-     * the 'Act' or 'Run' button gets pressed in the environment.
-     */
     public void act() 
     {
         GameWorld1 w = (GameWorld1) getWorld();
