@@ -1,11 +1,5 @@
 import greenfoot.*;
 
-/**
- * Write a description of class Egg here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
 public class Egg extends EnemyAttacks
 {
     public Egg(){
@@ -17,10 +11,6 @@ public class Egg extends EnemyAttacks
         setImage(image);
     }
 
-    /**
-     * Act - do whatever the Egg wants to do. This method is called whenever
-     * the 'Act' or 'Run' button gets pressed in the environment.
-     */
     public void act() 
     {
         setRotation(90);
