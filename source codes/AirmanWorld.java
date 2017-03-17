@@ -1,12 +1,7 @@
 import greenfoot.*;
 import java.awt.Color;
 import java.awt.Font;
-/**
- * Write a description of class airmanWorld here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
+
 public class AirmanWorld extends GameWorld
 {
     Airman airman = new Airman();
