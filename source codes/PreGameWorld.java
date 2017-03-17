@@ -1,11 +1,5 @@
 import greenfoot.*;
 
-/**
- * Write a description of class PreGameWorld here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
 public class PreGameWorld extends GameWorld
 {
     Hero hero = new Hero();
