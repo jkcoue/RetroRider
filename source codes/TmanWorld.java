@@ -1,12 +1,7 @@
 import greenfoot.*;
 import java.awt.Color;
 import java.awt.Font;
-/**
- * Write a description of class TmanWorld here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
+
 public class TmanWorld extends GameWorld
 {
     SimpleTimer timer = new SimpleTimer();
