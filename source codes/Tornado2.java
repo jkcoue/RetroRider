@@ -1,11 +1,5 @@
 import greenfoot.*;
 
-/**
- * Write a description of class Tornado2 here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
 public class Tornado2 extends EnemyAttacks
 {
     int direction;
@@ -18,10 +12,7 @@ public class Tornado2 extends EnemyAttacks
         setImage(image);
         direction = 0;
     }
-    /**
-     * Act - do whatever the Tornado2 wants to do. This method is called whenever
-     * the 'Act' or 'Run' button gets pressed in the environment.
-     */
+
     public void act() 
     {
         setRotation(direction);
