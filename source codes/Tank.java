@@ -1,11 +1,5 @@
 import greenfoot.*;
 
-/**
- * Write a description of class Tank here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
 public class Tank extends Enemy2
 {
     SimpleTimer timer = new SimpleTimer();
@@ -19,10 +13,6 @@ public class Tank extends Enemy2
         setImage(image);
     }
     
-    /**
-     * Act - do whatever the Tank wants to do. This method is called whenever
-     * the 'Act' or 'Run' button gets pressed in the environment.
-     */
     public void act() 
     {
         enemy2Move();
