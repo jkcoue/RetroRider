@@ -1,11 +1,5 @@
 import greenfoot.*;
 
-/**
- * Write a description of class BossAlert here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
 public class BossAlert extends Texts
 {
     int timer = 0;
