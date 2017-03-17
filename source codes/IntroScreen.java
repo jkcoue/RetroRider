@@ -1,11 +1,5 @@
 import greenfoot.*;
 
-/**
- * Write a description of class IntroScreen here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
 public class IntroScreen extends GameWorld
 {
     private int randomSong = Greenfoot.getRandomNumber(2);
