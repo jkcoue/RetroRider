@@ -1,16 +1,12 @@
 import greenfoot.*;
 
-/**
- * Write a description of class Attacks here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
+
 public class Attacks extends Actor
 {
     GreenfootSound bossHit1  = new GreenfootSound("bossHit1.wav");
     GreenfootSound bossHit2  = new GreenfootSound("bossHit2.wav");
     GreenfootSound explosionSound = new GreenfootSound("deathExplode.wav");
+    
     /**
      * Remove - This method removes the objects of this class when it is at the edge of the world and removes
      * this object when it touches the enemy/boss as well as adding to the player score. This method also removes 
