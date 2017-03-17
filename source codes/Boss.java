@@ -1,11 +1,5 @@
 import greenfoot.*;
 
-/**
- * Write a description of class Boss here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
 public class Boss extends Actor
 {
     private int HP = 0;
@@ -13,10 +7,7 @@ public class Boss extends Actor
     GreenfootSound explosionSound = new GreenfootSound("deathExplode.wav");
     GreenfootSound charge = new GreenfootSound("charge1.wav");
     GreenfootSound beamSound = new GreenfootSound("shootlaser1.wav");
-    /**
-     * Act - do whatever the Boss wants to do. This method is called whenever
-     * the 'Act' or 'Run' button gets pressed in the environment.
-     */
+ 
     public void act() 
     {
         // Add your action code here.
