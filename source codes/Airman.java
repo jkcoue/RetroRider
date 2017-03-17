@@ -1,10 +1,5 @@
 import greenfoot.*;
-/**
- * Write a description of class Airman here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
+
 public class Airman extends Boss
 {
     SimpleTimer timer = new SimpleTimer();
@@ -18,10 +13,7 @@ public class Airman extends Boss
         setHP(30);
     }
 
-    /**
-     * Act - do whatever the Airman wants to do. This method is called whenever
-     * the 'Act' or 'Run' button gets pressed in the environment.
-     */
+
     public void act() 
     {
         //HP tracking
