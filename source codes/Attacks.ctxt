@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=Attacks
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ Attacks\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
-comment1.params=
-comment1.target=void\ remove()
-comment1.text=\r\n\ Remove\ -\ This\ method\ removes\ the\ objects\ of\ this\ class\ when\ it\ is\ at\ the\ edge\ of\ the\ world\ and\ removes\r\n\ this\ object\ when\ it\ touches\ the\ enemy/boss\ as\ well\ as\ adding\ to\ the\ player\ score.\ This\ method\ also\ removes\ \r\n\ the\ enemies\ that\ it\ touches\ and\ reduces\ the\ HP\ of\ the\ bosses\ that\ it\ touches.\r\n
-numComments=2
