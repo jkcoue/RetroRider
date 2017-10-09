@@ -8,10 +8,7 @@ public class Boss extends Actor
     GreenfootSound charge = new GreenfootSound("charge1.wav");
     GreenfootSound beamSound = new GreenfootSound("shootlaser1.wav");
  
-    public void act() 
-    {
-        // Add your action code here.
-    }   
+    public void act() {}
 
     /**
      * takeDmg - reduce the HP by one.
